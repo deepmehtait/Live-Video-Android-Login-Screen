@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="login">Login</string>
+    <string name="NoAccount">No account yet? Create one</string>
+</resources>
